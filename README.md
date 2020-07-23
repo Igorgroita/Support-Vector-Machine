@@ -8,6 +8,17 @@ This was a team project.
 * The implementation of the FlexMargin algorithm for linear separable data sets that were measured with errors. 
 
 ## Demonstration:
+* Generating data:
+<img src="SVM_AI/GroitaIgor/svm/res/generErrorData.gif">
+
+* Loading data:
+<img src="SVM_AI/GroitaIgor/svm/res/loadingDataWithErrors.gif">
 
 
+* The Sequential Minimal Optimization algorithm put to work:
+<br>
+<img src="SVM_AI/GroitaIgor/svm/res/SMOIgor_practice.gif">
 
+* The Flexible Margin algorithm put to work:
+
+<img src="SVM_AI/GroitaIgor/svm/res/FlexMarginPractice.gif">
